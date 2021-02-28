@@ -13,8 +13,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-
 Please find a screenshot of my completed work below.
 ADD SC
 
-Link to live app
+You can view the live site here: https://dominikacookies.github.io/homework_07032021/.
+
+Enjoy! :-)
