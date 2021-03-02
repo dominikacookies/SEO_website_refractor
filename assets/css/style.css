@@ -1,13 +1,14 @@
 /* Do I have to add comments to explain everything or just as headings is ok? */
-/* Styles applicable to elements */
-body {
-    background-color: #d9dcd6;
-}
-
+/* Styling for the entire webpage */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+}
+
+/* Styles applicable to specific html elements */
+body {
+    background-color: #d9dcd6;
 }
 
 a {
