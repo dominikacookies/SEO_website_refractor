@@ -1,12 +1,11 @@
-/* Do I have to add comments to explain everything or just as headings is ok? */
-/* Styling for the entire webpage */
+/* Universal styling */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* Styles applicable to specific html elements */
+/* Styles applicable throughout the page */
 body {
     background-color: #d9dcd6;
 }
@@ -20,7 +19,17 @@ p {
     font-size: 16px;
 }
 
-/* Header */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* This is the header styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,8 +59,7 @@ p {
     margin-left: 25px;
 }
 
-/* Hero image */
-/* Does this the pic need to move to html? */
+/* This is the styling for the hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,7 +69,7 @@ p {
     background-position: center;
 }
 
-/* Services section */
+/* This is the styling for the services section */
 .content {
     width: 75%;
     display: inline-block;
@@ -77,16 +85,6 @@ p {
     color: #ffffff;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .service img {
     max-height: 200px;
 }
@@ -96,7 +94,7 @@ p {
     font-size: 36px;
 }
 
-/* Benefits section */
+/* This is the styling for the benefits section */
 .benefit {
     margin-right: 20px;
     padding: 20px;
@@ -125,7 +123,7 @@ p {
     padding-bottom: 20px;
 }
 
-/* Footer section */
+/* This is the styling for the footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -133,6 +131,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
