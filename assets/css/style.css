@@ -46,7 +46,7 @@ p {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -54,7 +54,7 @@ p {
     font-size: 20px;
 }
 
-.header div li {
+.header nav li {
     display: inline-block;
     margin-left: 25px;
 }
