@@ -2,7 +2,7 @@
 
 ## Project Link
 
-You can view the project on GitHub pages by clicking [here](https://dominikacookies.github.io/homework_07032021//).
+You can view the project on GitHub pages by clicking [here](https://dominikacookies.github.io/SEO_website_refractor/).
 ## Description
 
 The main goal of this project was to make the Horiseon website more accessible by refractoring its code inline with the accessibility criteria shared by the client. 
